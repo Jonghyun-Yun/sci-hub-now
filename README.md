@@ -19,6 +19,10 @@ Example popular publishers:
 
 _In memory of Aaron Swartz..._
 
+- The URL has been updated to (https://scihubtw.tw/). 
+- See (https://youtu.be/P0ugObgYohY) for debugging. 
+- To install, zip the folder, and change the extension to xpi. The xpi file can be installed in (about:addons).
+
 **Mozilla Add-on**: https://addons.mozilla.org/en-US/firefox/addon/sci-hub-now/<br>
 **Chrome Web Store**: https://chrome.google.com/webstore/detail/sci-hub-now/jnlldhggdfnbabnjbgahoabglgmjbhdl
 
