@@ -21,7 +21,9 @@ _In memory of Aaron Swartz..._
 
 - The URL has been updated to (https://scihubtw.tw/). 
 - See (https://youtu.be/P0ugObgYohY) for debugging. 
-- To install, zip the folder, and change the extension to xpi. The xpi file can be installed in (about:addons).
+- To install, ZIP the files, and change the extension to XPI.
+**The ZIP file must be a ZIP of the extension's files themselves, not of the directory containing them.**
+- Go to (https://addons.mozilla.org) for packaging. Selecting a specific version will let you download and install the addon.
 
 **Mozilla Add-on**: https://addons.mozilla.org/en-US/firefox/addon/sci-hub-now/<br>
 **Chrome Web Store**: https://chrome.google.com/webstore/detail/sci-hub-now/jnlldhggdfnbabnjbgahoabglgmjbhdl
